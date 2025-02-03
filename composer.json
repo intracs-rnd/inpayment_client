@@ -1,7 +1,7 @@
 {
-  "name": "intracs_rnd/in_wallet_client",
+  "name": "intracs-rnd/in_wallet_client",
   "description": "Intracs Wallet client for Laravel",
-  "type": "library",
+  "type": "composer-plugin",
   "license": "MIT",
   "autoload": {
     "psr-4": {
