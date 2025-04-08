@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace IntracsRnd\InWalletClient\Providers;
+namespace IntracsRnd\InpaymentClient\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-final class InWalletClientServiceProvider extends ServiceProvider
+final class InpaymentClientServiceProvider extends ServiceProvider
 {
     /**
      * Register services.

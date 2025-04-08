@@ -1,6 +1,6 @@
 <?php
 
-namespace IntracsRnd\InWalletClient\Support;
+namespace IntracsRnd\InpaymentClient\Support;
 
 use Illuminate\Support\Facades\Config;
 

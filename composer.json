@@ -1,11 +1,11 @@
 {
-  "name": "intracs-rnd/in_wallet_client",
-  "description": "Intracs Wallet client for Laravel",
+  "name": "intracs-rnd/inpayment_client",
+  "description": "Intracs Payment (Inpayment) client for Laravel",
   "license": "MIT",
   "autoload": {
     "psr-4": {
       "App\\": "app/",
-      "IntracsRnd\\InWalletClient\\": "src/"
+      "IntracsRnd\\InpaymentClient\\": "src/"
     }
   },
   "require": {

@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use IntracsRnd\InWalletClient\Contracts\Auth\Signature;
+use IntracsRnd\InpaymentClient\Contracts\Auth\Signature;
 
 final class ServicesTest extends TestCase
 {

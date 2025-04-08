@@ -1,5 +1,5 @@
 <?php
 
-namespace IntracsRnd\InWalletClient\Support;
+namespace IntracsRnd\InpaymentClient\Support;
 
 final class Client {}

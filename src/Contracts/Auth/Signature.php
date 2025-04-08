@@ -1,6 +1,6 @@
 <?php
 
-namespace IntracsRnd\InWalletClient\Contracts\Auth;
+namespace IntracsRnd\InpaymentClient\Contracts\Auth;
 
 final class Signature
 {
